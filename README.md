@@ -2,6 +2,6 @@
 
 Public privacy policy and support page for the BookSi app.
 
-Published via GitHub Pages at: https://yelliny.github.io/booksi-privacy/
+Published via GitHub Pages at: https://yelliny.github.io/
 
-Support: https://yelliny.github.io/booksi-privacy/support.html
+Support: https://yelliny.github.io/support.html
